@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.b1 {
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+.b2 {
+    background-color: yellow;
+    color: black;
+}
