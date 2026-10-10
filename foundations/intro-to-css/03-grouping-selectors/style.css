@@ -8,3 +8,13 @@
     background-color: yellow;
     color: black;
 }
+.b1,
+.b2 {
+    font-size: 28px;
+    font-style: 'Helvetica','Times New Roman','sans-serif';
+    
+
+}
+
+ /* a font size of 28px and a list of fonts containing
+  `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback */
